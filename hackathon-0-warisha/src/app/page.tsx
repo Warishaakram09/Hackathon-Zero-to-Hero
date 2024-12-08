@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from './components/Hero'
-import NewArrival from './components/NewArrival'
+
 
 function Home() {
   return (
